@@ -1,1 +1,5 @@
 streamlit
+streamlit==1.42.1
+pandas==1.5.2
+numpy==1.23.0
+# any other dependencies
